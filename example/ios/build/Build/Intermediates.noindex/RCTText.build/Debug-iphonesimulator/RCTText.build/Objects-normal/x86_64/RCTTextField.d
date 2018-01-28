@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/jiangyousong/Desktop/regionPicker/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegate.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/jiangyousong/Desktop/regionPicker/node_modules/react-native/Libraries/Text/RCTUITextField.h

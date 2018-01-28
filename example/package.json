@@ -1,0 +1,27 @@
+{
+  "name": "regionPicker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "clean": "rimraf dist",
+    "build": "npm run clean && babel src/ -d dist/"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "16.2.0",
+    "react-native": "0.52.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "22.1.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.1.4",
+    "react-test-renderer": "16.2.0",
+    "rimraf": "^2.6.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
