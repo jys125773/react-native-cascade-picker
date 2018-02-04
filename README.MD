@@ -1,15 +1,15 @@
-## React Native Cascader Picker
+## React Native Cascade Picker
 
-react-native cascader for ios iOS & Android,use such as region picker,unlimited depth level.
+react-native cascade picker for ios iOS & Android,use such as region picker,unlimited depth level.
 
 <img src="https://github.com/jys125773/cascaderPicker/blob/master/cascaderpicker.gif" width="250" />
 
 ## Installation
 
 ```
-npm install --save cascaderpicker
+npm install --save react-native-cascade-picker
 # OR
-yarn add cascaderpicker@1.0.0
+yarn add react-native-cascade-picker
 ```
 
 ## Usage
