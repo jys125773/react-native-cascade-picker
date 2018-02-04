@@ -1,6 +1,6 @@
 ## React Native Cascader Picker
 
-react-native cascader for ios iOS & Android,use such as region picker,Unlimited depth level.
+react-native cascader for ios iOS & Android,use such as region picker,unlimited depth level.
 
 <img src="https://github.com/jys125773/cascaderPicker/blob/master/cascaderpicker.gif" width="250" />
 
