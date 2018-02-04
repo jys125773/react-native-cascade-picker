@@ -16,14 +16,14 @@ yarn add react-native-cascade-picker
 ```javascript
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
-import CascaderPicker from 'cascaderpicker';
+import CascadePicker from 'react-native-cascade-picker';
 import areaData from './area.json';
 
 export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <CascaderPicker
+        <CascadePicker
           onSelect={(region) => {
 
           }}
